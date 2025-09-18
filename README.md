@@ -20,5 +20,3 @@ Basically… a digital maid but coded by a sleepy college student 🦝.
 
 ---
 
-## 📂 Example
-Before:
