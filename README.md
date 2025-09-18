@@ -19,4 +19,5 @@ Basically… a digital maid but coded by a sleepy college student 🦝.
   - Everything else → `Others`
 
 ---
+## CHANGE THE FILE PATH TO YOUR USERNAME
 
